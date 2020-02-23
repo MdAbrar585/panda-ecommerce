@@ -39,4 +39,10 @@
 }
 .cat3{
     background-image: linear-gradient(to left,#3814FA,#406AFF);
+    background-color: #007ACC;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    
 }
